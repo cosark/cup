@@ -40,6 +40,10 @@ Cup is a work in progress. It might not have as many features as other alternati
 ## Roadmap
 Take a sneak peek at what's coming up in future releases on the [roadmap](https://github.com/users/sergi0g/projects/2)!
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Cup/)
+
 ## Contributing
 
 All contributions are welcome!
